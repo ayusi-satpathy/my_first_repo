@@ -1,3 +1,3 @@
 select *
-from table
-where gigi_age > 21
+from table2
+where gigi_age > 25
